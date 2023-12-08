@@ -1,18 +1,23 @@
-### Front-End :
+👋 Hello,
+
+
+![Static Badge](https://img.shields.io/badge/Status%20%20-%20Open%20To%20Work-green)
+
+
+
+🎯 ### Languages :
 
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Next.JS-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwindcss-%2306B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white)
-
-
-### Back-End :
 
 ![Static Badge](https://img.shields.io/badge/CSharp-%23512BD4?style=for-the-badge&logo=C%23)
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?style=for-the-badge&logo=Microsoft%20SQL%20Server)
 
 
-### Development tools :
+💻 ### Development tools :
 
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -23,7 +28,12 @@
 ![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
-### Plateforms :
-
 ![Static Badge](https://img.shields.io/badge/Windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+📫 ### Contact Me on :
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farnaud-chane%2F)
+![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FArnaud-Chane)
+
