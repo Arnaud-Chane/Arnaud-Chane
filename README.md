@@ -1,11 +1,11 @@
-👋 Hello,
+### 👋 Hello,
 
 
 ![Static Badge](https://img.shields.io/badge/Status%20%20-%20Open%20To%20Work-green)
 
 
 
-🎯 ### Languages :
+### 🎯 Languages :
 
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=Typescript&logoColor=white)
@@ -17,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-grey?style=for-the-badge&logo=Microsoft%20SQL%20Server)
 
 
-💻 ### Development tools :
+### 💻 Development tools :
 
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -32,8 +32,9 @@
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-📫 ### Contact Me on :
+### 📫 Contact Me on :
 
 ![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farnaud-chane%2F)
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FArnaud-Chane)
+
 
