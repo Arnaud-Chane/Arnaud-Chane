@@ -18,9 +18,9 @@ Maybe yours can be the right one !
 
 ### 📫 Contact me on :
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farnaud-chane%2F)
-![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FArnaud-Chane)
-![Static Badge](https://img.shields.io/badge/MyWebsite-%233A76F0?style=flat-badge&logo=%3Arelaxed%3A&logoColor=white&link=https%3A%2F%2Farnaud-chane.vercel.app%2F)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farnaud-chane%2F)
+![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FArnaud-Chane)
+![Static Badge](https://img.shields.io/badge/MyWebsite-%233A76F0?style=flat-square&logo=%3Arelaxed%3A&logoColor=white&link=https%3A%2F%2Farnaud-chane.vercel.app%2F)
 <br />
 <br />
 
