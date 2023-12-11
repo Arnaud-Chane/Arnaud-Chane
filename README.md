@@ -15,14 +15,18 @@ Currently seeking an opportunity with a company that values and  prioritizes peo
 It is important for me to work in a supportive and caring environment, where individuals are valued and their needs are acknowledged. 
 That's why, I believe that when people feel supported and cared for, they are able to perform their best and contribute to the success of the company.  
 Maybe yours can be the right one !
+<br />
+
 
 ### 📫 Contact me on :
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farnaud-chane%2F)
-![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FArnaud-Chane)
-![Static Badge](https://img.shields.io/badge/MyWebsite-%233A76F0?style=flat-square&logo=%3Arelaxed%3A&logoColor=white&link=https%3A%2F%2Farnaud-chane.vercel.app%2F)
+<a href="https://www.linkedin.com/in/arnaud-chane/">![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Farnaud-chane%2F)</a>
+<a href="https://github.com/Arnaud-Chane/">![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FArnaud-Chane)</a>
+<a href="https://arnaud-chane.vercel.app/">![Static Badge](https://img.shields.io/badge/MyWebsite-%233A76F0?style=flat-square&logo=%3Arelaxed%3A&logoColor=white&link=https%3A%2F%2Farnaud-chane.vercel.app%2F)</a>
 <br />
 <br />
+<br />
+
 
 ### 💻 Tech Stack :
 
@@ -37,10 +41,7 @@ Maybe yours can be the right one !
 ![Static Badge](https://img.shields.io/badge/NodeJS-%23339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ExpressJS-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
+<br />
 
 ### 🌟 Development tools :
 
