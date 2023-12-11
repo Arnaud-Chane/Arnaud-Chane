@@ -1,4 +1,4 @@
-![logo](https://github.com/Arnaud-Chane/Arnaud-Chane/blob/main/images/banner.jpg)
+![logo](https://github.com/Arnaud-Chane/Arnaud-Chane/blob/main/images/topbanner.jpg)
 
 ### 👋 Hello, I'm Arnaud Chane and I'm currently :
 
